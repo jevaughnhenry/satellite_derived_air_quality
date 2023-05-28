@@ -9,4 +9,7 @@ The table consists of data access points made publicly available by the European
   Provider: ESA  
   Access Point: [Weblink](https://s5phub.copernicus.eu/dhus/#/home)  
 
-2. Name: Copernicus Sentinel-5P Mapping Portal Description: Mapping platform showing a 14-day moving average of some Sentinel-5P products   Provider: ESA  Access Point: [Weblink](https://maps.s5p-pal.com/no2/)
+2. Name: Copernicus Sentinel-5P Mapping Portal  
+  Description: Mapping platform showing a 14-day moving average of some Sentinel-5P products   
+  Provider: ESA  
+  Access Point: [Weblink](https://maps.s5p-pal.com/no2/)
