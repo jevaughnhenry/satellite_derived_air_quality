@@ -6,7 +6,7 @@ Satellite data is readily available at a global scale to monitor air quality and
 
 
 
-| **Name  | Description  | Provider | Access Point** |
+| **Name**  | **Description**  | **Provider** | **Access Point** |
 |-----|--------|----------|-----------|
 | Sentinel-5P Pre-Operations Data Hub     | Copernicus Open Access Hub for Sentinel-5P products       | ESA      | ['Weblink'](https://s5phub.copernicus.eu/dhus/#/home)    |
 | Copernicus Sentinel-5P Mapping Portal    | Mapping platform showing a 14-day moving average of some Sentinel-5P products | ESA      | [Weblink](https://maps.s5p-pal.com/no2/)  |
@@ -14,3 +14,6 @@ Satellite data is readily available at a global scale to monitor air quality and
 | Giovanni | Interactive interface for web-based analysis   | NASA     | [Weblink](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=&endtime=&variableFacets=dataFieldDiscipline%3AAerosols%3B) |
 | Level-1 and Atmosphere Archive & Distribution System Distributed Active Archive Center (LAADS DAAC) | Public access data collection and archive | NASA   | [Weblink](https://ladsweb.modaps.eosdis.nasa.gov/)   |
 
+## Sample Data
+![sample data 5p](https://github.com/jevaughnhenry/satellite_derived_air_quality/assets/127128607/a1b3edda-e735-4abd-af1a-ddbbc9a83ef5)
+*Sentinel-5P Tropospheric Nitrogen Dioxide concentration averaged over 14 days for the European region*
